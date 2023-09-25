@@ -1,3 +1,3 @@
 print("i can breathe")
-i = 90
+i = 900
 z = 20
